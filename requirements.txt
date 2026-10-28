@@ -1,6 +1,0 @@
-openai
-langchain
-langchain-openai
-langchain-core
-streamlit
-tiktoken
