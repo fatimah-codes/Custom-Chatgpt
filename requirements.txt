@@ -1,0 +1,9 @@
+openai
+langchain
+langchain-openai
+langchain-core
+streamlit>=1.43
+tiktoken
+pypdf
+python-docx
+openpyxl

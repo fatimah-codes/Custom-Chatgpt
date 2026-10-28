@@ -1,0 +1,23 @@
+{
+  "8ddd83d8-ed33-4252-a4a3-769a14a35955": {
+    "title": "hey",
+    "system": "You are a helpful assistant.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "hey"
+      },
+      {
+        "role": "assistant",
+        "content": "Hey—what can I help you with?"
+      }
+    ],
+    "updated": "2026-10-28T23:02:46.316307"
+  },
+  "caac6ca2-6051-47ea-96d5-d96e11e121d2": {
+    "title": "New chat",
+    "system": "You are a helpful assistant.",
+    "messages": [],
+    "updated": "2026-10-28T23:02:52.727557"
+  }
+}
